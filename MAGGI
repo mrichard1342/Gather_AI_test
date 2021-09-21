@@ -1,0 +1,4 @@
+git remote add origin https://github.com/mrichard1342/Gather_AI_test.git
+git branch -M main
+git push -u origin main
+touch MAGGI
